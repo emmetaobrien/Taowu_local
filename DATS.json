@@ -1,0 +1,194 @@
+{
+  "title": "Parkinson's Disease Datasets",
+  "description": "The data are comprised of 20 PD patients and 20 age-matched controls which include both T1 and resting-state scans.",
+  "creators": [
+    {
+      "name": "National Institute for Research and Development in Informatics",
+      "abbreviation": "ICI",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "MRI"
+      }
+    },
+    {
+      "information": {
+        "value": "T1W"
+      }
+    },
+    {
+      "information": {
+        "value": "fMRI"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC BY-NC-SA"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "NIfTI",
+        "BIDS"
+      ],
+      "size": 4.1,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "http://fcon_1000.projects.nitrc.org/indi/retro/parkinsons.html",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Exploring the reproducibility of functional connectivity alterations in Parkinson’s disease",
+      "publicationVenue": "PLoS ONE",
+      "authors": [
+        {
+          "fullName": "Tao Wu",
+          "firstName": "Tao",
+          "middleInitial": "",
+          "lastName": "Wu",
+          "affiliations": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2017-11-28 00:00:00",
+          "type": {
+            "value": "date of publication"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi.org/10.1371/journal.pone.0188196",
+        "identifierSource": ""
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    },
+    {
+      "name": "Parkinson's disease"
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "This work was partially supported by the NEUROCON project (84/2012), financed by UEFISCDI.",
+          "abbreviation": "UEFISCDI"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Parkinson's"
+    },
+    {
+      "value": "PD"
+    },
+    {
+      "value": "MRI"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "161"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "external"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "National Institute for Research and Development in Informatics"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Beijing"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "China"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "http://fcon_1000.projects.nitrc.org/indi/retro/Parkinsons/logo_ICI.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Tao Wu, wutao69@gmail.com"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
